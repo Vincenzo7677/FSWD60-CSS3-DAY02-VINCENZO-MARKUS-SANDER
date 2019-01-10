@@ -1,0 +1,27 @@
+.newscardContainerLeft {
+	display: inline-block;
+}
+.newscardContainerCenter {
+	display: inline-block;
+}
+.newscardContainerRight {
+	display: inline-block;
+}
+.newscardLong2 {
+	display: inline-block;
+}
+.newscardShort3 {
+	display: inline-block;
+}
+.newscardShort4 {
+	display: inline-block;
+}
+.newscardLong5 {
+	display: inline-block;
+}
+.newscardContainerCenterUpper {
+	vertical-align: top;
+}
+.newscardContainerCenterUpper {
+	vertical-align: bottom;
+}
