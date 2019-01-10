@@ -17,12 +17,16 @@ body {
 }
 .navbar {
 	display: block;
-	z-index:1;
+	height: 60px;
 	margin: 1%;
+}
+nav {
+	height: 50px;
 }
 /*CSS for Newscars*/
 .newscardContainer {
 	display: block;
+	width: 100%;
 }
 .newscardContainerLeft {
 	display: inline-block;
