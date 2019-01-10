@@ -17,6 +17,7 @@ body {
 }
 .navbar {
 	display: block;
+	z-index:1;
 	margin: 1%;
 }
 /*CSS for Newscars*/
