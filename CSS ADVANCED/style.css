@@ -6,6 +6,18 @@ body{
 h1{
 	text-align: center; /*Header with centered Logo*/
 }
+#header img{
+	width: 100%;
+	height: auto;
+}
+
+#nav{
+	position: sticky;
+	top:0;
+	width: 100%;
+	height: auto;
+	background-color: green;
+}
 
 #feature{
 	width: 100%; /*Feature section 100% width of the screen size*/
@@ -14,20 +26,13 @@ h1{
 }
 
 
-ul{
-	list-style-type: none;
-	text-align: center;
 
-}
+		
 
-li{
-	display: inline;	/*Horizontal navigation menu composed of five navigation links*/
-}
-li a{
-	text-decoration: none;
+a{	
+	text-decoration: none; /*Horizontal navigation menu composed of five navigation links*/
 }
 
 .box{
-	display: inline;
 	width: 33%
 }
