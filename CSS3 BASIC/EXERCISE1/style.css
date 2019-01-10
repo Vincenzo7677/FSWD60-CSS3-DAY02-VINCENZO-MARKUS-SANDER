@@ -1,0 +1,16 @@
+body{
+	background-color: #D2F9EC;
+}
+h1{
+	text-align: center; /*Header with centered Logo*/
+}
+
+#feature{
+	width: 100%; /*Feature section 100% width of the screen size*/
+	height: auto;
+}
+
+ul{
+	list-style-type: none;
+
+}
