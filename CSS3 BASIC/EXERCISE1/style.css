@@ -1,3 +1,5 @@
+/*Comments in this document are the tasks*/
+
 body{
 	background-color: #D2F9EC;
 }
@@ -14,9 +16,17 @@ h1{
 
 ul{
 	list-style-type: none;
+	text-align: center;
 
 }
 
 li{
-	display: inline;
+	display: inline;	/*Horizontal navigation menu composed of five navigation links*/
+}
+li a{
+	text-decoration: none;
+}
+
+.box{
+	width: 33%
 }
