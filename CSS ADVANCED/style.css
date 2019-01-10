@@ -1,38 +1,48 @@
 /*Comments in this document are the tasks*/
 
 body{
-	background-color: #D2F9EC;
+	margin: 0; 
+	padding: 0;
+	font-style: serif;
+	letter-spacing: 3px;
+
 }
 h1{
 	text-align: center; /*Header with centered Logo*/
+
+}
+#header{
+	position: relative;
+	top:0;
 }
 #header img{
 	width: 100%;
 	height: auto;
 }
 
-#nav{
+#nav{				/*Horizontal navigation menu composed of five navigation links*/
 	position: sticky;
 	top:0;
 	width: 100%;
 	height: auto;
-	background-color: green;
+	text-align: center;
+	padding: 10px;
+	color: grey;
+}
+a{	
+	text-decoration: none; 
+	font-size: 20px;
+	padding: 0px;
 }
 
 #feature{
 	width: 100%; /*Feature section 100% width of the screen size*/
 	height: auto;
-	border-bottom: 1px solid;
+	border: 1px solid;
+
 }
 
-
-
-		
-
-a{	
-	text-decoration: none; /*Horizontal navigation menu composed of five navigation links*/
+#footer{
+	text-align: center;
 }
 
-.box{
-	width: 33%
-}
