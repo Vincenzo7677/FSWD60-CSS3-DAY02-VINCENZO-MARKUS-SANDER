@@ -1,0 +1,53 @@
+/*Main*/
+body {
+	background-color: #5286C1;
+}
+/*CSS for Nav and Logos*/
+.header {
+	display: block;
+}
+.topbar {
+	display: block;
+}
+.newslogo {
+	display: inline-block;
+}
+.stationlogo {
+	display: inline-block;
+}
+.navbar {
+	display: block;
+	z-index:1;
+	margin: 1%;
+}
+/*CSS for Newscars*/
+.newscardContainer {
+	display: block;
+}
+.newscardContainerLeft {
+	display: inline-block;
+}
+.newscardContainerCenter {
+	display: inline-block;
+}
+.newscardContainerRight {
+	display: inline-block;
+}
+.newscardLong2 {
+	display: inline-block;
+}
+.newscardShort3 {
+	display: inline-block;
+}
+.newscardShort4 {
+	display: inline-block;
+}
+.newscardLong5 {
+	display: inline-block;
+}
+.newscardContainerCenterUpper {
+	vertical-align: top;
+}
+.newscardContainerCenterUpper {
+	vertical-align: bottom;
+}
