@@ -8,9 +8,15 @@ h1{
 #feature{
 	width: 100%; /*Feature section 100% width of the screen size*/
 	height: auto;
+	border-bottom: 1px solid;
 }
+
 
 ul{
 	list-style-type: none;
 
+}
+
+li{
+	display: inline;
 }
